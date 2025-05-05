@@ -2,7 +2,7 @@
 
 🚧 **Project In Progress** 🚧
 
-This repository is created for the final year project submission titled **"SaaS Platform for Gadget Repair Services"**. The work on this project is currently ongoing, and updates will be pushed regularly.
+This repository is created for the final year project submission. The work on this project is currently ongoing, and updates will be pushed regularly.
 
 ## Status
 - ⚙️ Development and implementation in progress.
